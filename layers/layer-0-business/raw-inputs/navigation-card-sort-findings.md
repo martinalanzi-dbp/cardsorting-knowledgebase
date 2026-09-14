@@ -18,7 +18,7 @@ A follow-up **team validation session** was run afterward to stress-test the gro
 
 ---
 
-## The two audiences
+## The 2 audiences
 
 ### Internal (5 groups)
 
