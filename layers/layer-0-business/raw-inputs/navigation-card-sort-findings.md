@@ -9,7 +9,7 @@
 
 This document consolidates findings from card-sorting activities run to inform the navigation structure for a training-management platform (with K9 training features). The same 15–18 features were sorted independently by two audiences:
 
-- **Internal staff** — organized results around *workflow function* (what job am I doing: configuring, reporting, managing operations)
+- **Internal team members** — organized results around *workflow function* (what job am I doing: configuring, reporting, managing operations)
 - **External (agency) users** — organized results around *product domains* (what area am I in: the library, K9 stuff, admin settings)
 
 This internal/external split is a classic IA tension: internal users tend to organize around the tasks they perform, while external/end users tend to organize around the named things they interact with.
